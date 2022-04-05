@@ -1,0 +1,16 @@
+H:\lap08\lap08\obj\Debug\net5.0\lap08.csproj.AssemblyReference.cache
+H:\lap08\lap08\obj\Debug\net5.0\lap08.GeneratedMSBuildEditorConfig.editorconfig
+H:\lap08\lap08\obj\Debug\net5.0\lap08.AssemblyInfoInputs.cache
+H:\lap08\lap08\obj\Debug\net5.0\lap08.AssemblyInfo.cs
+H:\lap08\lap08\obj\Debug\net5.0\lap08.csproj.CoreCompileInputs.cache
+H:\lap08\lap08\bin\Debug\net5.0\lap08.exe
+H:\lap08\lap08\bin\Debug\net5.0\lap08.deps.json
+H:\lap08\lap08\bin\Debug\net5.0\lap08.runtimeconfig.json
+H:\lap08\lap08\bin\Debug\net5.0\lap08.runtimeconfig.dev.json
+H:\lap08\lap08\bin\Debug\net5.0\lap08.dll
+H:\lap08\lap08\bin\Debug\net5.0\lap08.pdb
+H:\lap08\lap08\obj\Debug\net5.0\lap08.dll
+H:\lap08\lap08\obj\Debug\net5.0\refint\lap08.dll
+H:\lap08\lap08\obj\Debug\net5.0\lap08.pdb
+H:\lap08\lap08\obj\Debug\net5.0\lap08.genruntimeconfig.cache
+H:\lap08\lap08\obj\Debug\net5.0\ref\lap08.dll
